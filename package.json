@@ -1,6 +1,6 @@
 {
   "name": "timeout-callback",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "callback function wrapper with timeout functionality",
   "repository": {
     "type": "git",
@@ -10,6 +10,6 @@
     "test": "mocha test"
   },
   "dependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^10.4.0"
   }
 }
